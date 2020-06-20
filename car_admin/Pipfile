@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django-ckeditor = "==5.6.1"
+Django = "==2.2.10"
+Pillow = "==6.2.0"
+
+[requires]
+python_version = "3.7"
